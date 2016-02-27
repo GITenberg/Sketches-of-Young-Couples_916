@@ -1,0 +1,28 @@
+_repo: Sketches-of-Young-Couples_916
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Go to top; The Young Couple; The Formal Couple; The Loving Couple; The
+  Contradictory Couple; The Couple Who Dote Upon Their Children; The Cool Couple;
+  The Plausible Couple; The Nice Little Couple; The Egotistical Couple; The Couple
+  Who Coddle Themselves; The Old Couple; Conclusion; Charles Dickens Biography.
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century'
+- !lcsh 'Couples -- England'
+title: Sketches of Young Couples
+url: http://www.gutenberg.org/ebooks/916
